@@ -9,7 +9,7 @@ env:
   LOCATION: East US 2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 55c50ce5-a767-4d1c-9672-bd68a1911ff5
-  WEBAPP-NAME: eshoponweb-webapp-CKP
+  WEBAPP-NAME: eshoponweb-webapp-CKP1
 
 
 jobs:
